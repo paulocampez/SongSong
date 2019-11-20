@@ -17,19 +17,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Infra", "5 - Infra", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Tests", "6 - Tests", "{DA725EC5-1E47-421B-B65B-DC311AB7F0C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Services.Api", "src\SongSong.Services.Api\SongSong.Services.Api.csproj", "{9C23CE77-8F29-489F-8E7B-36C87DD6E24C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongSong.Services.Api", "src\SongSong.Services.Api\SongSong.Services.Api.csproj", "{9C23CE77-8F29-489F-8E7B-36C87DD6E24C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Domain", "src\SongSong.Domain\SongSong.Domain.csproj", "{33C91E57-F280-4C16-B3CE-B005804A653B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongSong.Domain", "src\SongSong.Domain\SongSong.Domain.csproj", "{33C91E57-F280-4C16-B3CE-B005804A653B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Domain.Core", "SongSong.Domain.Core\SongSong.Domain.Core.csproj", "{61C555BE-5616-48A7-BAB2-182C33E77936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongSong.Domain.Core", "SongSong.Domain.Core\SongSong.Domain.Core.csproj", "{61C555BE-5616-48A7-BAB2-182C33E77936}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Tests", "src\SongSong.Tests\SongSong.Tests.csproj", "{26B6DD26-C6C7-4446-B546-49761B797CBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongSong.Tests", "src\SongSong.Tests\SongSong.Tests.csproj", "{26B6DD26-C6C7-4446-B546-49761B797CBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.UI.Web", "src\SongSong.UI.Web\SongSong.UI.Web.csproj", "{7DBE8ABB-96B6-45C0-A776-E401C0928B21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongSong.UI.Web", "src\SongSong.UI.Web\SongSong.UI.Web.csproj", "{7DBE8ABB-96B6-45C0-A776-E401C0928B21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Application", "src\SongSong.Application\SongSong.Application.csproj", "{66349026-B62B-4A28-ACD2-EEA069C546FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongSong.Application", "src\SongSong.Application\SongSong.Application.csproj", "{66349026-B62B-4A28-ACD2-EEA069C546FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Infra.Data", "src\SongSong.Infra.Data\SongSong.Infra.Data.csproj", "{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongSong.Infra.Data", "src\SongSong.Infra.Data\SongSong.Infra.Data.csproj", "{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Infra.CrossCutting.IoC", "src\SongSong.Infra.CrossCutting.IoC\SongSong.Infra.CrossCutting.IoC.csproj", "{83616197-5BC1-472D-B654-0AB5919944B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +67,10 @@ Global
 		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83616197-5BC1-472D-B654-0AB5919944B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83616197-5BC1-472D-B654-0AB5919944B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83616197-5BC1-472D-B654-0AB5919944B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83616197-5BC1-472D-B654-0AB5919944B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +89,7 @@ Global
 		{7DBE8ABB-96B6-45C0-A776-E401C0928B21} = {D7D6DF6D-A077-4E96-A5D8-22B7C3A45F0F}
 		{66349026-B62B-4A28-ACD2-EEA069C546FC} = {4D20F274-716B-47A6-9ABD-0296E3DCA3D9}
 		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B} = {264191E8-950B-4322-9757-EA6B99409AF9}
+		{83616197-5BC1-472D-B654-0AB5919944B9} = {264191E8-950B-4322-9757-EA6B99409AF9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9374236F-0A96-4337-AE51-3AFFEFE9EA96}

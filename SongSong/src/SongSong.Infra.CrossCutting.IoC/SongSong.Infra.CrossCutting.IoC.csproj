@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="mediatr" Version="7.0.0" />
+    <PackageReference Include="microsoft.extensions.dependencyinjection.abstractions" Version="3.0.1" />
+  </ItemGroup>
+
+</Project>

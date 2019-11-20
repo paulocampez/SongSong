@@ -1,0 +1,6 @@
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\SongSong.Infra.CrossCutting.IoC.deps.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\SongSong.Infra.CrossCutting.IoC.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\SongSong.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\SongSong.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\SongSong.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\SongSong.Infra.CrossCutting.IoC.csprojAssemblyReference.cache

@@ -2024,7 +2024,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "MediatR": "7.0.0",
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore": "2.2.0"
         },
@@ -6800,7 +6799,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "MediatR >= 7.0.0",
       "Microsoft.AspNetCore.Mvc.Abstractions >= 2.2.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
@@ -6859,10 +6857,6 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
-          "MediatR": {
-            "target": "Package",
-            "version": "[7.0.0, )"
-          },
           "Microsoft.AspNetCore.Mvc.Abstractions": {
             "target": "Package",
             "version": "[2.2.0, )"
