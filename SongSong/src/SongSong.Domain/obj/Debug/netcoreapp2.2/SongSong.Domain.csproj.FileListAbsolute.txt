@@ -7,3 +7,6 @@ C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Domain\obj\Deb
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Domain\obj\Debug\netcoreapp2.2\SongSong.Domain.AssemblyInfo.cs
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Domain\obj\Debug\netcoreapp2.2\SongSong.Domain.dll
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Domain\obj\Debug\netcoreapp2.2\SongSong.Domain.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Domain\bin\Debug\netcoreapp2.2\SongSong.Domain.Core.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Domain\bin\Debug\netcoreapp2.2\SongSong.Domain.Core.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Domain\obj\Debug\netcoreapp2.2\SongSong.Domain.csproj.CopyComplete
