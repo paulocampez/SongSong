@@ -10,3 +10,5 @@ C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.csproj.CopyComplete
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.dll
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.xml
