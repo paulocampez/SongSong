@@ -1,0 +1,8 @@
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Application\bin\Debug\netcoreapp2.2\SongSong.Application.deps.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Application\bin\Debug\netcoreapp2.2\SongSong.Application.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Application\bin\Debug\netcoreapp2.2\SongSong.Application.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Application\obj\Debug\netcoreapp2.2\SongSong.Application.csproj.CoreCompileInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Application\obj\Debug\netcoreapp2.2\SongSong.Application.AssemblyInfoInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Application\obj\Debug\netcoreapp2.2\SongSong.Application.AssemblyInfo.cs
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Application\obj\Debug\netcoreapp2.2\SongSong.Application.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Application\obj\Debug\netcoreapp2.2\SongSong.Application.pdb

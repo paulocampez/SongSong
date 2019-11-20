@@ -15,3 +15,7 @@ C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debu
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.csproj.CopyComplete
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.dll
 C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Application.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Application.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.xml
