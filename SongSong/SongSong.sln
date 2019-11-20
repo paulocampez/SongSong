@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.UI.Web", "src\Song
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Application", "src\SongSong.Application\SongSong.Application.csproj", "{66349026-B62B-4A28-ACD2-EEA069C546FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Infra.Data", "src\SongSong.Infra.Data\SongSong.Infra.Data.csproj", "{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{66349026-B62B-4A28-ACD2-EEA069C546FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66349026-B62B-4A28-ACD2-EEA069C546FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66349026-B62B-4A28-ACD2-EEA069C546FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{26B6DD26-C6C7-4446-B546-49761B797CBC} = {DA725EC5-1E47-421B-B65B-DC311AB7F0C7}
 		{7DBE8ABB-96B6-45C0-A776-E401C0928B21} = {D7D6DF6D-A077-4E96-A5D8-22B7C3A45F0F}
 		{66349026-B62B-4A28-ACD2-EEA069C546FC} = {4D20F274-716B-47A6-9ABD-0296E3DCA3D9}
+		{C979F46A-C4A8-4474-8C96-39AFDF37AE8B} = {264191E8-950B-4322-9757-EA6B99409AF9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9374236F-0A96-4337-AE51-3AFFEFE9EA96}

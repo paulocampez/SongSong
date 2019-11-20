@@ -1,0 +1,12 @@
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\bin\Debug\netcoreapp2.2\SongSong.Infra.Data.deps.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\bin\Debug\netcoreapp2.2\SongSong.Infra.Data.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.AssemblyInfo.cs
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\bin\Debug\netcoreapp2.2\SongSong.Infra.Data.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\bin\Debug\netcoreapp2.2\SongSong.Domain.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\bin\Debug\netcoreapp2.2\SongSong.Domain.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.csprojAssemblyReference.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.csproj.CopyComplete
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Infra.Data\obj\Debug\netcoreapp2.2\SongSong.Infra.Data.pdb
