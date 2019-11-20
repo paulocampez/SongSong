@@ -44,6 +44,18 @@
       "Microsoft.EntityFrameworkCore.Analyzers/2.2.6": {
         "type": "package"
       },
+      "Microsoft.EntityFrameworkCore.Relational/2.2.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.6"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll": {}
+        }
+      },
       "Microsoft.Extensions.Caching.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -845,11 +857,24 @@
       "SongSong.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "SongSong.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/SongSong.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/SongSong.Domain.dll": {}
+        }
+      },
+      "SongSong.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/SongSong.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SongSong.Domain.Core.dll": {}
         }
       }
     }
@@ -915,6 +940,19 @@
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "microsoft.entityframeworkcore.analyzers.2.2.6.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Relational/2.2.6": {
+      "sha512": "AlB4Gg1nplg6fwieCLixphmYkhwM1SSHecE43oDizAjFUSs7vlL5mlwf620X4SB037pVg+naxhBEtF53TGa6yQ==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.relational/2.2.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.xml",
+        "microsoft.entityframeworkcore.relational.2.2.6.nupkg.sha512",
+        "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
     "Microsoft.Extensions.Caching.Abstractions/2.2.0": {
@@ -3259,11 +3297,17 @@
       "type": "project",
       "path": "../SongSong.Domain/SongSong.Domain.csproj",
       "msbuildProject": "../SongSong.Domain/SongSong.Domain.csproj"
+    },
+    "SongSong.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../../SongSong.Domain.Core/SongSong.Domain.Core.csproj",
+      "msbuildProject": "../../SongSong.Domain.Core/SongSong.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.EntityFrameworkCore >= 2.2.6",
+      "Microsoft.EntityFrameworkCore.Relational >= 2.2.6",
       "Microsoft.Extensions.Configuration.FileExtensions >= 3.0.1",
       "Microsoft.Extensions.Configuration.Json >= 3.0.1",
       "Microsoft.NETCore.App >= 2.2.0",
@@ -3317,6 +3361,10 @@
       "netcoreapp2.2": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[2.2.6, )"
+          },
+          "Microsoft.EntityFrameworkCore.Relational": {
             "target": "Package",
             "version": "[2.2.6, )"
           },

@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
+using SongSong.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -15,6 +16,15 @@ namespace SongSong.Infra.Data.Context
         {
             _env = env;
         }
+        public DbSet<Album> Albums { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new CustomerMap());
+
+            base.OnModelCreating(modelBuilder);
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             var config = new ConfigurationBuilder()

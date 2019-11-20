@@ -4,6 +4,59 @@
     "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Infra.Data\\SongSong.Infra.Data.csproj": {}
   },
   "projects": {
+    "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\SongSong.Domain.Core\\SongSong.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\SongSong.Domain.Core\\SongSong.Domain.Core.csproj",
+        "projectName": "SongSong.Domain.Core",
+        "projectPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\SongSong.Domain.Core\\SongSong.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\paulo.campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\SongSong.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulo.campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.midassolutions.com.br:81/nuget/metaora": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Domain\\SongSong.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,7 +83,11 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\SongSong.Domain.Core\\SongSong.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\SongSong.Domain.Core\\SongSong.Domain.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -100,6 +157,10 @@
         "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[2.2.6, )"
             },
