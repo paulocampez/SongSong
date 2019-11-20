@@ -1,0 +1,17 @@
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Tests.deps.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Tests.runtimeconfig.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Tests.runtimeconfig.dev.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Tests.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Tests.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Services.Api.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\bin\Debug\netcoreapp2.2\SongSong.Services.Api.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.csprojAssemblyReference.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.csproj.CoreCompileInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.AssemblyInfoInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.AssemblyInfo.cs
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.csproj.CopyComplete
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Tests\obj\Debug\netcoreapp2.2\SongSong.Tests.pdb

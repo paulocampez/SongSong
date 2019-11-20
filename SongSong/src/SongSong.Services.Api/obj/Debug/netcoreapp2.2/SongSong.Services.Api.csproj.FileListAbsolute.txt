@@ -1,0 +1,14 @@
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\bin\Debug\netcoreapp2.2\SongSong.Services.Api.deps.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\bin\Debug\netcoreapp2.2\SongSong.Services.Api.runtimeconfig.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\bin\Debug\netcoreapp2.2\SongSong.Services.Api.runtimeconfig.dev.json
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\bin\Debug\netcoreapp2.2\SongSong.Services.Api.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\bin\Debug\netcoreapp2.2\SongSong.Services.Api.pdb
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.csprojAssemblyReference.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.csproj.CoreCompileInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.RazorAssemblyInfo.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.RazorAssemblyInfo.cs
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.AssemblyInfoInputs.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.AssemblyInfo.cs
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.RazorTargetAssemblyInfo.cache
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.dll
+C:\Users\paulo.campez\source\repos\SongSong\SongSong\src\SongSong.Services.Api\obj\Debug\netcoreapp2.2\SongSong.Services.Api.pdb

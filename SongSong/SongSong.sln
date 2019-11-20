@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Tests", "src\SongS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.UI.Web", "src\SongSong.UI.Web\SongSong.UI.Web.csproj", "{7DBE8ABB-96B6-45C0-A776-E401C0928B21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongSong.Application", "src\SongSong.Application\SongSong.Application.csproj", "{66349026-B62B-4A28-ACD2-EEA069C546FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{7DBE8ABB-96B6-45C0-A776-E401C0928B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DBE8ABB-96B6-45C0-A776-E401C0928B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DBE8ABB-96B6-45C0-A776-E401C0928B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66349026-B62B-4A28-ACD2-EEA069C546FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66349026-B62B-4A28-ACD2-EEA069C546FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66349026-B62B-4A28-ACD2-EEA069C546FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66349026-B62B-4A28-ACD2-EEA069C546FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,6 +75,7 @@ Global
 		{61C555BE-5616-48A7-BAB2-182C33E77936} = {BC9E20F9-DEB6-45A7-B945-5F6944DE1E7E}
 		{26B6DD26-C6C7-4446-B546-49761B797CBC} = {DA725EC5-1E47-421B-B65B-DC311AB7F0C7}
 		{7DBE8ABB-96B6-45C0-A776-E401C0928B21} = {D7D6DF6D-A077-4E96-A5D8-22B7C3A45F0F}
+		{66349026-B62B-4A28-ACD2-EEA069C546FC} = {4D20F274-716B-47A6-9ABD-0296E3DCA3D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9374236F-0A96-4337-AE51-3AFFEFE9EA96}

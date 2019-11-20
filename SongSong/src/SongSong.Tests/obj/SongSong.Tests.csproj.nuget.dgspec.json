@@ -4,6 +4,123 @@
     "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Tests\\SongSong.Tests.csproj": {}
   },
   "projects": {
+    "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Application\\SongSong.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Application\\SongSong.Application.csproj",
+        "projectName": "SongSong.Application",
+        "projectPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Application\\SongSong.Application.csproj",
+        "packagesPath": "C:\\Users\\paulo.campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulo.campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.midassolutions.com.br:81/nuget/metaora": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Services.Api\\SongSong.Services.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Services.Api\\SongSong.Services.Api.csproj",
+        "projectName": "SongSong.Services.Api",
+        "projectPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Services.Api\\SongSong.Services.Api.csproj",
+        "packagesPath": "C:\\Users\\paulo.campez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Services.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulo.campez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.midassolutions.com.br:81/nuget/metaora": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
     "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Tests\\SongSong.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -21,7 +138,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -29,8 +146,15 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
-            "projectReferences": {}
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Application\\SongSong.Application.csproj": {
+                "projectPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Application\\SongSong.Application.csproj"
+              },
+              "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Services.Api\\SongSong.Services.Api.csproj": {
+                "projectPath": "C:\\Users\\paulo.campez\\source\\repos\\SongSong\\SongSong\\src\\SongSong.Services.Api\\SongSong.Services.Api.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -40,7 +164,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -49,7 +173,7 @@
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             },
             "xunit": {
