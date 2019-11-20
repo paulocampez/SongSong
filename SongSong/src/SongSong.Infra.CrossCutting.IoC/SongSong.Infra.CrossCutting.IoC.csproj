@@ -9,4 +9,9 @@
     <PackageReference Include="microsoft.extensions.dependencyinjection.abstractions" Version="3.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SongSong.Application\SongSong.Application.csproj" />
+    <ProjectReference Include="..\SongSong.Infra.Data\SongSong.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>
